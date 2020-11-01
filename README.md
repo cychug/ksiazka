@@ -1,0 +1,2 @@
+# ksiazka
+plik readme 
